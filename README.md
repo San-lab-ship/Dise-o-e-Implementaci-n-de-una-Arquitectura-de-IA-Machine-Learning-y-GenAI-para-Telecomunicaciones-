@@ -126,9 +126,8 @@ Monitoreo continuo del rendimiento de modelos, consumo de recursos, deriva de mo
 ## 📊 Visualización
 
 - <img width="679" height="848" alt="image" src="https://github.com/user-attachments/assets/edd19f8a-11da-40e1-9fe6-5f933f4303c9" />
-
-Esta arquitectura empresarial integra Microsoft Azure y Databricks para diseñar, desplegar y gobernar soluciones de Inteligencia Artificial, Machine Learning e IA Generativa. La plataforma incorpora capacidades de MLOps, gobierno de datos, seguridad y observabilidad para ofrecer una solución escalable, confiable y preparada para producción.
 ---
+Arquitectura empresarial basada en Microsoft Azure y Databricks para diseñar, desplegar y gobernar soluciones de IA, Machine Learning y GenAI mediante MLOps, gobierno de datos, seguridad y observabilidad, garantizando escalabilidad y preparación para producción.
 
 # 📊 Resultados esperados
 
