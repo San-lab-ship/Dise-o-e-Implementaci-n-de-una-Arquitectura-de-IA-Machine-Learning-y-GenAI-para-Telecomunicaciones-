@@ -6,9 +6,8 @@ Arquitectura empresarial de extremo a extremo para unificar, escalar y gobernar 
 
 # 📌 Descripción general
 
-Las compañías de telecomunicaciones administran millones de registros diarios provenientes de redes móviles, telemetría 5G (NWDAF), dispositivos IoT, sistemas OSS/BSS, CRM y canales digitales. 
+Las compañías de telecomunicaciones administran millones de registros diarios provenientes de redes móviles, telemetría 5G (NWDAF), dispositivos IoT, sistemas OSS/BSS, CRM y canales digitales. Para dar respuesta a este volumen y complejidad, este proyecto implementa una plataforma moderna que centraliza la ingesta en streaming, el procesamiento avanzado, el entrenamiento, el despliegue seguro mediante APIs y el monitoreo continuo, garantizando entornos listos para producción.
 
-Para dar respuesta a este volumen y complejidad, este proyecto implementa una plataforma moderna que centraliza la ingesta en streaming, el procesamiento avanzado, el entrenamiento, el despliegue seguro mediante APIs y el monitoreo continuo, garantizando entornos listos para producción.
 ---
 
 # 🎯 Objetivo
