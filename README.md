@@ -125,8 +125,8 @@ Monitoreo continuo del rendimiento de modelos, consumo de recursos, deriva de mo
 
 ## 📊 Visualización
 
-- Power BI
-- Streamlit
+- <img width="679" height="848" alt="image" src="https://github.com/user-attachments/assets/edd19f8a-11da-40e1-9fe6-5f933f4303c9" />
+
 
 ---
 
