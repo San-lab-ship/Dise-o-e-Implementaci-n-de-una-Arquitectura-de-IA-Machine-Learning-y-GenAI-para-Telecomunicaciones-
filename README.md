@@ -1,4 +1,4 @@
-# 🏗️ Diseño e Implementación de una Arquitectura de IA, Machine Learning y GenAI para Telecomunicaciones sobre Azure y Databricks
+# 🏗️ Diseño e Implementación de Arquitectura de Soluciones con IA, ML y GenAI para Telecomunicaciones sobre Azure y Databricks
 
 Arquitectura empresarial de extremo a extremo para unificar, escalar y gobernar soluciones de **Inteligencia Artificial (IA)**, **Machine Learning (ML)** e **IA Generativa (GenAI)** en el sector de telecomunicaciones utilizando **Microsoft Azure**, **Databricks** y prácticas de **MLOps**.
 
