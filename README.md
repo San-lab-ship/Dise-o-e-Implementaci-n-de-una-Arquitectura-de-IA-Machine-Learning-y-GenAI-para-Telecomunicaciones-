@@ -6,7 +6,7 @@ Arquitectura empresarial de extremo a extremo para diseñar, implementar y gober
 
 # 📌 Descripción general
 
-Las compañías de telecomunicaciones administran millones de registros diarios provenientes de redes móviles, clientes, dispositivos IoT, OSS/BSS, CRM y canales digitales. Este proyecto propone una arquitectura empresarial que unifica la ingesta, procesamiento, entrenamiento, despliegue y monitoreo de soluciones de IA y GenAI, permitiendo acelerar la innovación, mejorar la experiencia del cliente y optimizar la operación mediante una plataforma moderna basada en Azure y Databricks.
+Las compañías de telecomunicaciones administran millones de registros diarios provenientes de redes móviles, telemetría 5G (NWDAF), dispositivos IoT, sistemas OSS/BSS, CRM y canales digitales. Este proyecto propone una arquitectura empresarial que unifica la ingesta en streaming, el procesamiento, entrenamiento, despliegue y monitoreo de soluciones de IA y GenAI, permitiendo acelerar la innovación, mejorar la experiencia del cliente y optimizar la operación de red mediante una plataforma moderna basada en Azure y Databricks.
 
 ---
 
@@ -122,12 +122,20 @@ Monitoreo continuo del rendimiento de modelos, consumo de recursos, deriva de mo
 - Responsible AI
 - Gestión de Identidades (IAM)
 - Auditoría y Trazabilidad
+- Azure AI Content Safety
 
 ## 📊 Visualización
 
 - <img width="679" height="848" alt="image" src="https://github.com/user-attachments/assets/edd19f8a-11da-40e1-9fe6-5f933f4303c9" />
 ---
 Arquitectura empresarial basada en Microsoft Azure y Databricks para diseñar, desplegar y gobernar soluciones de IA, Machine Learning y GenAI mediante MLOps, gobierno de datos, seguridad y observabilidad, garantizando escalabilidad y preparación para producción.
+
+
+# 🗺️ Arquitectura de la Solución
+
+<p align="center">
+  <img width="679" alt="Arquitectura de IA, ML y GenAI para Telecomunicaciones" src="https://github.com/user-attachments/assets/edd19f8a-11da-40e1-9fe6-5f933f4303c9" />
+</p>
 
 # 📊 Resultados esperados
 
@@ -141,7 +149,6 @@ Arquitectura empresarial basada en Microsoft Azure y Databricks para diseñar, d
 | Disponibilidad | 95% | 99.9% | +4.9% |
 
 ---
-
 # 💼 Impacto para el sector Telecomunicaciones
 
 - Diseño de arquitecturas empresariales escalables para IA, ML y GenAI.
@@ -154,10 +161,6 @@ Arquitectura empresarial basada en Microsoft Azure y Databricks para diseñar, d
 - Plataforma preparada para casos de uso como **Churn Prediction**, **Detección de Fraude**, **Mantenimiento Predictivo**, **Customer 360**, **Asistentes Virtuales Inteligentes**, **Recomendadores** y **Automatización de Procesos**.
 
 ---
-
-
----
-
 # 🚀 Valor para el negocio
 
 Esta arquitectura permite acelerar la adopción de Inteligencia Artificial en empresas de telecomunicaciones mediante una plataforma moderna, escalable y gobernada. La integración de Azure, Databricks y MLOps facilita el desarrollo, despliegue y operación de soluciones de IA y GenAI, reduciendo tiempos de implementación, optimizando costos y fortaleciendo la toma de decisiones basada en datos.
