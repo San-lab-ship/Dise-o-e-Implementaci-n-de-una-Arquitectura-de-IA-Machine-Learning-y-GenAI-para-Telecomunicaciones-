@@ -1,13 +1,14 @@
 # 🏗️ Diseño e Implementación de una Arquitectura de IA, Machine Learning y GenAI para Telecomunicaciones sobre Azure y Databricks
 
-Arquitectura empresarial de extremo a extremo para diseñar, implementar y gobernar soluciones de **Inteligencia Artificial (IA)**, **Machine Learning (ML)** e **IA Generativa (GenAI)** en empresas de telecomunicaciones. La solución integra **Microsoft Azure**, **Azure AI Foundry**, **Azure Machine Learning**, **Azure OpenAI**, **Databricks** y prácticas de **MLOps** para construir plataformas escalables, seguras y preparadas para producción.
+Arquitectura empresarial de extremo a extremo para unificar, escalar y gobernar soluciones de **Inteligencia Artificial (IA)**, **Machine Learning (ML)** e **IA Generativa (GenAI)** en el sector de telecomunicaciones utilizando **Microsoft Azure**, **Databricks** y prácticas de **MLOps**.
 
 ---
 
 # 📌 Descripción general
 
-Las compañías de telecomunicaciones administran millones de registros diarios provenientes de redes móviles, telemetría 5G (NWDAF), dispositivos IoT, sistemas OSS/BSS, CRM y canales digitales. Este proyecto propone una arquitectura empresarial que unifica la ingesta en streaming, el procesamiento, entrenamiento, despliegue y monitoreo de soluciones de IA y GenAI, permitiendo acelerar la innovación, mejorar la experiencia del cliente y optimizar la operación de red mediante una plataforma moderna basada en Azure y Databricks.
+Las compañías de telecomunicaciones administran millones de registros diarios provenientes de redes móviles, telemetría 5G (NWDAF), dispositivos IoT, sistemas OSS/BSS, CRM y canales digitales. 
 
+Para dar respuesta a este volumen y complejidad, este proyecto implementa una plataforma moderna que centraliza la ingesta en streaming, el procesamiento avanzado, el entrenamiento, el despliegue seguro mediante APIs y el monitoreo continuo, garantizando entornos listos para producción.
 ---
 
 # 🎯 Objetivo
@@ -124,18 +125,13 @@ Monitoreo continuo del rendimiento de modelos, consumo de recursos, deriva de mo
 - Auditoría y Trazabilidad
 - Azure AI Content Safety
 
-## 📊 Visualización
-
-- <img width="679" height="848" alt="image" src="https://github.com/user-attachments/assets/edd19f8a-11da-40e1-9fe6-5f933f4303c9" />
----
-Arquitectura empresarial basada en Microsoft Azure y Databricks para diseñar, desplegar y gobernar soluciones de IA, Machine Learning y GenAI mediante MLOps, gobierno de datos, seguridad y observabilidad, garantizando escalabilidad y preparación para producción.
-
-
 # 🗺️ Arquitectura de la Solución
 
 <p align="center">
   <img width="679" alt="Arquitectura de IA, ML y GenAI para Telecomunicaciones" src="https://github.com/user-attachments/assets/edd19f8a-11da-40e1-9fe6-5f933f4303c9" />
 </p>
+---
+Arquitectura empresarial basada en Microsoft Azure y Databricks para diseñar, desplegar y gobernar soluciones de IA, Machine Learning y GenAI mediante MLOps, gobierno de datos, seguridad y observabilidad, garantizando escalabilidad y preparación para producción.
 
 # 📊 Resultados esperados
 
