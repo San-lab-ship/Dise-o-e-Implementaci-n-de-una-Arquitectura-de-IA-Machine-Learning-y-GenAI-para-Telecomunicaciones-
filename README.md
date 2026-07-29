@@ -127,6 +127,7 @@ Monitoreo continuo del rendimiento de modelos, consumo de recursos, deriva de mo
 
 - <img width="679" height="848" alt="image" src="https://github.com/user-attachments/assets/edd19f8a-11da-40e1-9fe6-5f933f4303c9" />
 
+La solución implementa una arquitectura empresarial basada en Microsoft Azure y Databricks para el desarrollo, despliegue y gobierno de soluciones de IA, Machine Learning e IA Generativa. La plataforma integra servicios cloud, MLOps, gobierno de datos y observabilidad para garantizar escalabilidad, seguridad y alta disponibilidad.
 ---
 
 # 📊 Resultados esperados
@@ -155,38 +156,6 @@ Monitoreo continuo del rendimiento de modelos, consumo de recursos, deriva de mo
 
 ---
 
-# 🏗️ Arquitectura General de la Solución
-
-```text
-            Clientes │ Red Móvil │ OSS/BSS │ CRM │ APIs │ IoT
-                              │
-                              ▼
-        Azure Data Factory │ Event Hub │ API Management
-                              │
-                              ▼
-          Azure Data Lake Storage (ADLS Gen2)
-                              │
-                              ▼
-      Databricks │ Delta Lake │ Unity Catalog
-                              │
-                              ▼
-      Ingeniería de Datos │ Feature Engineering │ PySpark
-                              │
-                              ▼
- Azure Machine Learning │ Azure AI Foundry │ Azure OpenAI
-                              │
-                              ▼
-       MLflow │ Registro de Modelos │ Responsible AI
-                              │
-                              ▼
-      Docker │ Azure DevOps │ CI/CD │ APIs REST
-                              │
-                              ▼
-      CRM │ OSS/BSS │ Aplicaciones │ Canales Digitales
-                              │
-                              ▼
- Azure Monitor │ Power BI │ Observabilidad │ Cost Optimization
-```
 
 ---
 
