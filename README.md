@@ -127,7 +127,7 @@ Monitoreo continuo del rendimiento de modelos, consumo de recursos, deriva de mo
 
 - <img width="679" height="848" alt="image" src="https://github.com/user-attachments/assets/edd19f8a-11da-40e1-9fe6-5f933f4303c9" />
 
-La solución implementa una arquitectura empresarial basada en Microsoft Azure y Databricks para el desarrollo, despliegue y gobierno de soluciones de IA, Machine Learning e IA Generativa. La plataforma integra servicios cloud, MLOps, gobierno de datos y observabilidad para garantizar escalabilidad, seguridad y alta disponibilidad.
+Esta arquitectura empresarial integra Microsoft Azure y Databricks para diseñar, desplegar y gobernar soluciones de Inteligencia Artificial, Machine Learning e IA Generativa. La plataforma incorpora capacidades de MLOps, gobierno de datos, seguridad y observabilidad para ofrecer una solución escalable, confiable y preparada para producción.
 ---
 
 # 📊 Resultados esperados
